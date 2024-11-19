@@ -1,0 +1,6 @@
+numpy   ==> pip install numpy
+
+pandas  ==> pip install pandas
+scikit- learn ==> pip install scikit-learn
+matplotlib ==> pip install matplotlib
+seaborn   ==> pip install seaborn
